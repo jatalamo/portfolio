@@ -30,7 +30,9 @@
    #name   {font-family: Limelight; font-size: 28px;}
  h3      {text-align: center;}
 
-
+#green_link {
+  color: green;
+}
 
 /*This is the CSS for resume.html*/
 
