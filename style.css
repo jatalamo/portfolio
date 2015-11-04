@@ -25,11 +25,13 @@
   
 /*---------------This is the CSS for resume.html---------------------------------*/
 
+
 #my-name{font-family: Caveat; 
          font-size: 50px; 
          text-align: center;}
 
 #resume-body {background-color: #989898;}
+
 
 section {text-align: center; 
          font-weight: bolder; 
